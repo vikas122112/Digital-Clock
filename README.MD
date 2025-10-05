@@ -31,9 +31,11 @@ This project is great for beginners who want to learn about **GUI programming** 
 
 📸 Screenshot
 
+![image_alt](https://github.com/vikas122112/Digital-Clock/blob/main/Screenshot.png?raw=true)
+
 ---
 
-##📚 Learning Outcomes
+#📚 Learning Outcomes
 
 By creating this project, you’ll learn:
 
@@ -47,7 +49,7 @@ Structuring a simple Python application
 
 ---
 
-##🔮 Future Enhancements
+#🔮 Future Enhancements
 
 🖼 Add a dark/light theme
 
@@ -59,9 +61,9 @@ Structuring a simple Python application
 
 ---
 
-##👨‍💻 About the Developer
+#👨‍💻 About the Developer
 
-Vikas
+hi i'm Vikas
 
 🎓 B.Tech CSE Student
 
